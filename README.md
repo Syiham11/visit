@@ -2,7 +2,6 @@
 script php untuk visit blogger / website secara otomatis
 
 # termux instalasi
-#
 $ pkg update && pkg upgrade
 #
 $ pkg install php
